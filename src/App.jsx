@@ -8,11 +8,11 @@ import fantasyData from "./assets/data/fantasy.json";
 
 function App() {
   return (
-    <>
+    <div className="wrapper">
       <Header />
       <Cards books={fantasyData} />
       <Footer />
-    </>
+    </div>
   );
 }
 

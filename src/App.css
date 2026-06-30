@@ -4,3 +4,8 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
+.wrapper {
+  width: 60%;
+  margin: 0 auto;
+}
