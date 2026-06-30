@@ -5,7 +5,7 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 
 function Header() {
   return (
-    <Navbar expand="lg" className="bg-body-tertiary">
+    <Navbar expand="lg" className="myHeader">
       <Container>
         <Navbar.Brand href="#">EpiBooks</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbar-nav" />

@@ -13,7 +13,7 @@ function Cards({ books }) {
             <Card>
               <Card.Img variant="top" src={book.img} />
               <Card.Body>
-                <Card.Title>{book.title}</Card.Title>
+                <Card.Title className="cardTitle">{book.title}</Card.Title>
               </Card.Body>
             </Card>
           </Col>
