@@ -1,5 +1,5 @@
 function Footer() {
-  return <p>EPICODE - Copyright 2026</p>;
+  return <footer>EPICODE - Copyright 2026</footer>;
 }
 
 export default Footer;
